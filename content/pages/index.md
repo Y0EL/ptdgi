@@ -171,7 +171,7 @@ sections:
         altText: Empathy logo
         type: ImageBlock
       - url: /images/realme.png
-        altText: Wellster logo
+        altText: realme logo
         type: ImageBlock
       - url: /images/vise-logo.svg
         altText: Vise logo
