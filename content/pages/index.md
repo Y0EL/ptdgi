@@ -242,10 +242,9 @@ sections:
       - title: Satu kata buat DGI "KEREN"
         tagline: Review terhadap DGI
         subtitle: 'Agung Sadana, Finance Consultant'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Saya gak nyangka ternyata retail depan rumah saya itu cabang dari DGI
+          juga, ini jadi memudahkan saya sih buat beli aksesoris, perawatan dll
         image:
           url: /images/1r.png
           altText: Agung Sadana
