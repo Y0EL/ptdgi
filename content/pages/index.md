@@ -517,7 +517,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Three
+      - title: 'ACER Aspire 5 (A514-52G) '
         tagline: ''
         subtitle: This is the item subtitle
         text: >
