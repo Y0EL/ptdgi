@@ -478,8 +478,27 @@ sections:
       - title: Asus ROG Strix G G512LI-I75TB6T
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: |+
+          *   **Processor:** Intel Core i7-10750H (12M Cache; up to 5.00 GHz)
+
+          *   **Memory:** 8GB
+
+          *   **Internal Storage:** 512GB SSD
+
+          *   **Display:** 15.6 Inch FHD (1920×1080), IPS, 144hz
+
+          *   **Graphics Card:** GeForce GTX 1650 Ti
+
+          *   **Connectivity:** 3xUSB 3.2, 1xHDMI, 1xRJ45, 1xAudio Jack
+
+          *   **Networking:** Bluetooth 5.0, WiFi
+
+          *   **Battery:** 48 WH
+
+          *   **Operating System:** Windows 10 Home
+
+          *   **Garansi Resmi:** Asus Indonesia
+
         image:
           url: /images/asus rog.png
           altText: Asus ROG Strix G G512LI-I75TB6T
