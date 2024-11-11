@@ -351,9 +351,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple,
-          that's why it is so complicated."
+      - title: Surga Bagi Gamer!
         tagline: Review terhadap DGI
         subtitle: 'Surga Bagi Gamer!Jane Walters, Company'
         text: >-
