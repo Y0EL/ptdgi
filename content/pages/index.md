@@ -296,10 +296,11 @@ sections:
       - title: Pilihan Tepat Buat Bisnis
         tagline: Review terhadap DGI
         subtitle: 'Andre, Pengusaha Online Shop'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          Cabang DGI di Cempaka Baru top buat bisnis online gue. Stok gadget
+          lengkap, pengiriman cepat, bisnis lancar!
+
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
