@@ -14,7 +14,7 @@ sections:
     actions:
       - label: Kunjungi Toko
         altText: kunjungi toko
-        url: /
+        url: 'https://dgi.yoel.pw/'
         showIcon: false
         icon: arrowRight
         iconPosition: right
