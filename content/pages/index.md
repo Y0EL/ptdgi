@@ -61,7 +61,7 @@ sections:
     subtitle: Solusi Gadget Terpercaya untuk Bisnis & Gaya Hidup Anda
     items:
       - type: FeaturedItem
-        title: Pengiriman Seluruh Indonesia
+        title: Seluruh Indonesia
         subtitle: 'Cakupan Luas, Tanpa Batasan Wilayah'
         text: >
           DGI melayani pengiriman ke seluruh Indonesia, baik untuk pelanggan
