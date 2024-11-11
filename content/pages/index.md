@@ -637,7 +637,7 @@ sections:
       submitButton:
         type: SubmitButtonFormControl
         label: Kirim
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
