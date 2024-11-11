@@ -361,7 +361,7 @@ sections:
 
         image:
           url: /images/2r.png
-          altText: Maria Walters
+          altText: Dimas
           styles:
             self:
               borderRadius: full
