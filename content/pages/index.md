@@ -64,11 +64,8 @@ sections:
         title: 500k
         subtitle: Numbers Done
         text: >
-          PT Distributor Gadget Indonesia (DGI) menyediakan layanan pengiriman
-          yang mencakup seluruh wilayah Indonesia, baik untuk kebutuhan
-          pelanggan retail maupun dalam jumlah besar (koli). Kami memastikan
-          distribusi produk yang cepat dan andal, sehingga pelanggan di mana pun
-          dapat menerima produk dengan lancar.
+          DGI melayani pengiriman ke seluruh Indonesia, baik untuk pelanggan
+          retail maupun pembelian koli.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
