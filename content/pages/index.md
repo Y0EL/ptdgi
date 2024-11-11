@@ -332,7 +332,7 @@ sections:
 
         image:
           url: /images/5r.png
-          altText: Maria Walters
+          altText: 'Dwi, Anak Kuliah'
           styles:
             self:
               borderRadius: full
