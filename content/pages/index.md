@@ -303,7 +303,7 @@ sections:
 
         image:
           url: /images/4r.png
-          altText: Maria Walters
+          altText: Andre
           styles:
             self:
               borderRadius: full
