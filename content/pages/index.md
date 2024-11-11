@@ -520,9 +520,43 @@ sections:
       - title: 'ACER Aspire 5 (A514-52G) '
         tagline: ''
         subtitle: 'Part Number: NX.HMLSN.001'
-        text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+        text: >+
+          *   **Processor:** Intel® Core i5-10210U processor (8 MB Smart Cache,
+          up to 4.9 GHz)
+
+
+          *   **Display:** 14.0" display with IPS (In-Plane Switching)
+          technology, HD 1366x768 pixels
+
+
+          *   **Memory:** 4 GB DDR4
+
+
+          *   **Storage:** 1 TB HDD
+
+
+          *   **Graphic:** NVIDIA® GeForce MX250 2GB
+
+
+          *   **Operating System:** Windows 10
+
+
+          *   **Bluetooth:** Bluetooth® 5.0
+
+
+          *   **HDMI:** HDMI® port with HDCP support
+
+
+          *   **ODD:** No Optical Drive (Tidak tersedia slot/ruang CD-Room)-
+          Interface: USB Type-Cport: USB 3.1 Gen 1 (up to 5 Gbps), Two USB 3.1
+          Gen1 ports 
+
+
+          *   **Colour:** Blue
+
+
+          *   **Garansi Resmi:** Acer Indonesia
+
         image:
           url: /images/thinkpad.png
           altText: 'ACER Aspire 5 (A514-52G) '
