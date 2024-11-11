@@ -74,7 +74,7 @@
         },
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "mailto:email@ptdgi.co.id\\",
             "icon": "mail",
             "type": "Social"
         }
