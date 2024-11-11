@@ -29,9 +29,11 @@ bottomSections:
       - title: PT Distributor Gadget Indonesia
         tagline: ''
         subtitle: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
-          auctor sapien.
+          PT Distributor Gadget Indonesia (DGI) menyediakan layanan pengiriman
+          yang mencakup seluruh wilayah Indonesia, baik untuk kebutuhan
+          pelanggan retail maupun dalam jumlah besar (koli). Kami memastikan
+          distribusi produk yang cepat dan andal, sehingga pelanggan di mana pun
+          dapat menerima produk dengan lancar.
         image:
           url: /images/DGI-removebg-preview (1).png
           altText: Company logo
