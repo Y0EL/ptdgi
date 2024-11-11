@@ -44,7 +44,7 @@
             "altText": "Menu",
             "links": [
                 {
-                    "label": "Dropdown item",
+                    "label": "Toko Offline",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
