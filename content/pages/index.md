@@ -116,7 +116,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
+      - title: Official
         subtitle: Faster
         text: |+
           Produk resmi dan bergaransi langsung dari brand terpercaya.
