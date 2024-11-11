@@ -389,8 +389,10 @@ sections:
       - title: ''
         tagline: Review terhadap DGI
         subtitle: 'Rizki, Mahasiswa Teknik'
-        text: |+
-          Tulis reviewnya
+        text: >+
+
+          Cabang di ITC Roxy Mas bener-bener surganya gadget! Semua ada di satu
+          tempat, harga bersaing banget buat kantong mahasiswa
 
         image:
           url: /images/img-placeholder-dark.png
