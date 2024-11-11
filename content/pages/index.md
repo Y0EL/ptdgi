@@ -360,7 +360,7 @@ sections:
           sampai aksesoris, semua ada. Tempat terbaik buat upgrade setup gaming
 
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/2r.png
           altText: Maria Walters
           styles:
             self:
