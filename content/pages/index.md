@@ -616,7 +616,9 @@ sections:
         - name: pesan
           label: Pesan
           hideLabel: true
-          placeholder: Your message
+          placeholder: >-
+            Isi pesan... [Mohon untuk mengisi alamat email yang aktif dan dapat
+            dihubungi]
           width: full
           type: TextareaFormControl
       elementId: contact-form
