@@ -482,7 +482,7 @@ sections:
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
           url: /images/asus rog.png
-          altText: Placeholder image
+          altText: Asus ROG Strix G G512LI-I75TB6T
           styles:
             self:
               borderRadius: x-large
