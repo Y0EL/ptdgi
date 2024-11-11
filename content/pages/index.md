@@ -180,7 +180,7 @@ sections:
         altText: Telus logo
         type: ImageBlock
       - url: /images/xiaomi.png
-        altText: Contentful logo
+        altText: Xiaomi logo
         type: ImageBlock
       - url: /images/oppo.png
         altText: Oppo logo
