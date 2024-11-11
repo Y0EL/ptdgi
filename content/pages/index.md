@@ -599,7 +599,7 @@ sections:
       apapun dalam bentuk apapun!
     media:
       fields:
-        - name: name
+        - name: Nama
           label: Name
           hideLabel: true
           placeholder: Your name
