@@ -12,7 +12,7 @@ sections:
       Pusat Gadget Terlengkap dan Terpercaya untuk Kebutuhan Bisnis dan Gaya
       Hidup Modern Anda
     actions:
-      - label: Get started
+      - label: Kunjungi Toko
         altText: ''
         url: /
         showIcon: false
