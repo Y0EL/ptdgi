@@ -54,7 +54,7 @@
                 },
                 {
                     "label": "Toko Online",
-                    "url": "/",
+                    "url": "/toko-online",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
