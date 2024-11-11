@@ -250,7 +250,7 @@ sections:
           explicabo.
         image:
           url: /images/1r.png
-          altText: Maria Walters
+          altText: Agung Sadana
           styles:
             self:
               borderRadius: full
