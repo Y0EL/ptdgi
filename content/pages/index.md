@@ -477,7 +477,7 @@ sections:
         type: FeaturedItem
       - title: Asus ROG Strix G G512LI-I75TB6T
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
