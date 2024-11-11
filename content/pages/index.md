@@ -168,7 +168,7 @@ sections:
   - subtitle: Partner kami
     images:
       - url: /images/samsung.png
-        altText: Empathy logo
+        altText: Samsung logo
         type: ImageBlock
       - url: /images/realme.png
         altText: realme logo
