@@ -9,7 +9,7 @@ excerpt: >-
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
   url: /images/onestop cilincing.png
-  altText: Case study 3
+  altText: Onestop Cilincing
   styles:
     self:
       borderRadius: x-large
