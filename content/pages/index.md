@@ -174,7 +174,7 @@ sections:
         altText: realme logo
         type: ImageBlock
       - url: /images/asus.png
-        altText: Vise logo
+        altText: Asus logo
         type: ImageBlock
       - url: /images/telus-logo.svg
         altText: Telus logo
