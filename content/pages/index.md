@@ -433,7 +433,7 @@ sections:
           Follow the tutorial to build your first Netlify Create site.
         image:
           url: /images/laptop.png
-          altText: Placeholder Image
+          altText: Laptop HP 14s
           styles:
             self:
               borderRadius: x-large
