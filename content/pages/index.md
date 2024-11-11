@@ -325,10 +325,11 @@ sections:
       - title: Tempat Nongkrong Gadget Terbaik
         tagline: Review terhadap DGI
         subtitle: 'Kevin, Anak Kuliah'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          DGI Cilincing selalu jadi tempat mampir gue buat gadget dan aksesoris
+          keren. Recommended banget buat mahasiswa!
+
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
