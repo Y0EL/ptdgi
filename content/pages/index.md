@@ -395,7 +395,7 @@ sections:
           tempat, harga bersaing banget buat kantong mahasiswa
 
         image:
-          url: /images/img-placeholder-dark.png
+          url: /images/6r.png
           altText: Jane Doe
           styles:
             self:
