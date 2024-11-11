@@ -428,7 +428,7 @@ sections:
     items:
       - title: Laptop HP 14s cf2019TU
         tagline: BRAND HP
-        subtitle: This is the item subtitle
+        subtitle: Celeron N4020 4GB 256GB SSD UMA Windows 10
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
