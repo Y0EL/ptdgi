@@ -58,7 +58,8 @@
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
-                    "type": "Link"
+                    "type": "Link",
+                    "altText": "Toko Online"
                 },
                 {
                     "label": "Dropdown item",
