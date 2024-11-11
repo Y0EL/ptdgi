@@ -426,7 +426,7 @@ sections:
       type: TitleBlock
     subtitle: Produk Launching Terbaru!
     items:
-      - title: HP 14s cf2019TU
+      - title: ''
         tagline: 'Laptop '
         subtitle: Celeron N4020 4GB 256GB SSD UMA Windows 10
         text: >+
