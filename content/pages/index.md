@@ -12,7 +12,7 @@ sections:
       Pusat Gadget Terlengkap dan Terpercaya untuk Kebutuhan Bisnis dan Gaya
       Hidup Modern Anda
     actions:
-      - label: Kunjungi Toko
+      - label: Ayo Belanja
         altText: kunjungi toko
         url: 'https://dgi.yoel.pw/'
         showIcon: false
