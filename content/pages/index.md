@@ -241,7 +241,7 @@ sections:
     items:
       - title: Satu kata buat DGI "KEREN"
         tagline: Review terhadap DGI
-        subtitle: 'Agung Sadana, Finance Consultant'
+        subtitle: 'Agung Sadana, Karyawan Kantoran'
         text: >
           Saya gak nyangka ternyata retail depan rumah saya itu cabang dari DGI
           juga, ini jadi memudahkan saya sih buat beli aksesoris, perawatan dll
