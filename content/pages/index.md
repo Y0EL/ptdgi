@@ -524,7 +524,7 @@ sections:
           Learn from the tutorial and build your first awesome Netlify Create
           site.
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/thinkpad.png
           altText: Placeholder image
           styles:
             self:
