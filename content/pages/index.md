@@ -89,7 +89,7 @@ sections:
             self:
               borderRadius: x-large
       - title: 20x
-        subtitle: The Job Stuff
+        subtitle: 'Proses Cepat, Sampai Tepat Waktu'
         text: |+
           Order baru langsung diproses dan dikirim di hari yang sama.
 
