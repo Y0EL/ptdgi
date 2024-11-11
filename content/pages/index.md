@@ -186,7 +186,7 @@ sections:
         altText: Oppo logo
         type: ImageBlock
       - url: /images/vivo.png
-        altText: Rangle logo
+        altText: Vivo logo
         type: ImageBlock
     motion: move-to-left
     colors: bg-light-fg-dark
