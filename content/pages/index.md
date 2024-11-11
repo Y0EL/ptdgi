@@ -429,8 +429,15 @@ sections:
       - title: Laptop HP 14s cf2019TU
         tagline: BRAND HP
         subtitle: Celeron N4020 4GB 256GB SSD UMA Windows 10
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >+
+          **Operating system:** Windows 10 Home Single Language 64**Prosesor:**
+          Intel® Celeron® N4020 **Memory:** 4 GB DDR4-2400 SDRAM (1 x 4
+          GB)**Internal storage:** 256 GB M.2 SSD**Display:** 14" diagonal HD
+          SVA BrightView micro-edge WLED-backlit (1366 x 768)**Graphics:**
+          Intel® UHD Graphics**Power supply type:** 45 W Smart AC power
+          adapter**Battery type:** 3-cell, 41 Wh Li-ion**Garansi Resmi:** HP
+          Indonesia
+
         image:
           url: /images/laptop.png
           altText: Laptop HP 14s
