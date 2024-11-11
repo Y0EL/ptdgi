@@ -396,7 +396,7 @@ sections:
 
         image:
           url: /images/6r.png
-          altText: Jane Doe
+          altText: Rizki
           styles:
             self:
               borderRadius: full
