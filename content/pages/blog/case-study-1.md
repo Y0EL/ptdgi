@@ -9,7 +9,7 @@ excerpt: >-
   JD.id, dan Akulaku.
 featuredImage:
   url: /images/onestop itc roxy.png
-  altText: Case study 1
+  altText: ITC Roxy MAS
   styles:
     self:
       borderRadius: large
