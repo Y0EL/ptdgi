@@ -302,7 +302,7 @@ sections:
           lengkap, pengiriman cepat, bisnis lancar!
 
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/4r.png
           altText: Maria Walters
           styles:
             self:
