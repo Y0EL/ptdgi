@@ -331,7 +331,7 @@ sections:
           keren. Recommended banget buat mahasiswa!
 
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/5r.png
           altText: Maria Walters
           styles:
             self:
