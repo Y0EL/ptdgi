@@ -23,7 +23,7 @@ sections:
         type: Button
       - label: Toko Offline
         altText: ''
-        url: /
+        url: /offline
         showIcon: true
         icon: arrowRight
         iconPosition: right
