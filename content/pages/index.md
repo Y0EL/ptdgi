@@ -600,7 +600,7 @@ sections:
     media:
       fields:
         - name: Nama
-          label: Name
+          label: Nama
           hideLabel: true
           placeholder: Your name
           isRequired: true
