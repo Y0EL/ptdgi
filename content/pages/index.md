@@ -614,7 +614,7 @@ sections:
           width: full
           type: EmailFormControl
         - name: pesan
-          label: Message
+          label: Pesan
           hideLabel: true
           placeholder: Your message
           width: full
