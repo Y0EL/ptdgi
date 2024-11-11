@@ -90,10 +90,13 @@ sections:
               borderRadius: x-large
       - title: 20x
         subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+          Order baru langsung diproses dan dikirim di hari yang sama.
+
+
+
+
+
         image:
           url: /images/ind fast.png
           altText: Featured icon two
