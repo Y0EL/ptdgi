@@ -276,7 +276,7 @@ sections:
           dan barangnya lengkap. Stafnya juga ramah dan ngebantu
         image:
           url: /images/3r.png
-          altText: John Doe
+          altText: Hana
           styles:
             self:
               borderRadius: full
