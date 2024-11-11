@@ -386,7 +386,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: ''
+      - title: testtttttttttt hehe
         tagline: Review terhadap DGI
         subtitle: 'Rizki, Mahasiswa Teknik'
         text: >+
