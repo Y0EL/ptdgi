@@ -37,7 +37,7 @@ sections:
       type: ImageBlock
       url: /images/Desain tanpa judul.jpg
     badge:
-      label: This is a badge
+      label: DEMO - Official page
       color: text-primary
       type: Badge
     elementId: ''
