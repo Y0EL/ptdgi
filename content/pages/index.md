@@ -89,7 +89,7 @@ sections:
             self:
               borderRadius: x-large
       - title: Pengiriman
-        subtitle: 'Cepat, Sampai Tepat Waktu'
+        subtitle: Sampai Tepat Waktu
         text: |
           Pesanan baru langsung diproses dan dikirim di hari yang sama.
         image:
