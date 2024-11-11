@@ -58,7 +58,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Solusi Gadget Terpercaya untuk Bisnis & Gaya Hidup Anda
     items:
       - type: FeaturedItem
         title: 500k
