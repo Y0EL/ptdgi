@@ -62,7 +62,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Pengiriman
-        subtitle: 'Cakupan Luas, Tanpa Batasan Wilayah'
+        subtitle: Seluruh Indonesia
         text: >
           DGI melayani pengiriman ke seluruh Indonesia, baik untuk pelanggan
           retail maupun pembelian koli.
