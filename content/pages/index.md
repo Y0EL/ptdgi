@@ -426,7 +426,7 @@ sections:
       type: TitleBlock
     subtitle: Produk Launching Terbaru!
     items:
-      - title: Feature Item One
+      - title: Laptop HP 14s cf2019TU
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
