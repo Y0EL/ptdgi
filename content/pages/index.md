@@ -21,7 +21,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
+      - label: Toko Offline
         altText: ''
         url: /
         showIcon: true
