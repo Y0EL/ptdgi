@@ -602,7 +602,7 @@ sections:
         - name: Nama
           label: Nama
           hideLabel: true
-          placeholder: Your name
+          placeholder: Nama kamu
           isRequired: true
           width: full
           type: TextFormControl
