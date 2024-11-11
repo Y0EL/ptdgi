@@ -176,7 +176,7 @@ sections:
       - url: /images/asus.png
         altText: Asus logo
         type: ImageBlock
-      - url: /images/telus-logo.svg
+      - url: /images/apple.png
         altText: Telus logo
         type: ImageBlock
       - url: /images/xiaomi.png
