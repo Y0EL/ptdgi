@@ -525,7 +525,7 @@ sections:
           site.
         image:
           url: /images/thinkpad.png
-          altText: Placeholder image
+          altText: 'ACER Aspire 5 (A514-52G) '
           styles:
             self:
               borderRadius: x-large
