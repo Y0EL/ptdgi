@@ -183,7 +183,7 @@ sections:
         altText: Contentful logo
         type: ImageBlock
       - url: /images/oppo.png
-        altText: Sanity logo
+        altText: Oppo logo
         type: ImageBlock
       - url: /images/rangle-logo.svg
         altText: Rangle logo
