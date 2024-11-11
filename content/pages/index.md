@@ -642,7 +642,7 @@ sections:
         style: primary
         elementId: null
     badge:
-      label: Hubungi Kami
+      label: PT. Distributor Gadget Indonesia
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
