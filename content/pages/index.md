@@ -418,7 +418,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: Produk Baru!
+      text: Produk Baru
       color: text-primary
       styles:
         self:
