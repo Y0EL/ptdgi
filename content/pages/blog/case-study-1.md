@@ -3,10 +3,10 @@ title: ONESTOP PONSEL ITC ROXY MAS
 slug: case-study-1
 date: '2024-11-12'
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
-  tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
-  Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
-  pellentesque fermentum. Sed in facilisis dui.
+  DGI hadir di sejumlah toko fisik di Jakarta (ITC Roxy Mas, Cempaka Mas,
+  Cilincing) serta Tangerang, dan aktif memasarkan produk di berbagai platform
+  e-commerce Indonesia seperti Tokopedia, Shopee, Lazada, Bukalapak, Blibli,
+  JD.id, dan Akulaku.
 featuredImage:
   url: /images/onestop itc roxy.png
   altText: Case study 1
