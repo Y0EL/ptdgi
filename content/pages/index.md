@@ -177,7 +177,7 @@ sections:
         altText: Asus logo
         type: ImageBlock
       - url: /images/apple.png
-        altText: Telus logo
+        altText: Apple logo
         type: ImageBlock
       - url: /images/xiaomi.png
         altText: Xiaomi logo
