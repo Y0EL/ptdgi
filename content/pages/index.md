@@ -385,7 +385,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: testtttttttttt hehe
+      - title: 'Gadget Lengkap, Gak Bikin Bokek!'
         tagline: Review terhadap DGI
         subtitle: 'Rizki, Mahasiswa Teknik'
         text: >+
