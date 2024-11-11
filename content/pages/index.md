@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: DGI
+      text: PT DGI
       color: text-dark
       type: TitleBlock
     subtitle: Distributor Gadget Indonesia
