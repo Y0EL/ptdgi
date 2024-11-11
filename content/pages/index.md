@@ -427,7 +427,7 @@ sections:
     subtitle: Produk Launching Terbaru!
     items:
       - title: BRAND
-        tagline: 'Laptop '
+        tagline: HP 14S
         subtitle: Laptop HP 14s cf2019TU Celeron N4020 4GB 256GB SSD UMA Windows 10
         text: >+
           *   **Operating system:** Windows 10 Home Single Language 64
