@@ -13,7 +13,7 @@ sections:
       Hidup Modern Anda
     actions:
       - label: Ayo Belanja
-        altText: kunjungi toko
+        altText: ayo belanja
         url: 'https://dgi.yoel.pw/'
         showIcon: false
         icon: arrowRight
