@@ -613,7 +613,7 @@ sections:
           isRequired: true
           width: full
           type: EmailFormControl
-        - name: message
+        - name: pesan
           label: Message
           hideLabel: true
           placeholder: Your message
