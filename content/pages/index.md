@@ -13,7 +13,7 @@ sections:
       Hidup Modern Anda
     actions:
       - label: Kunjungi Toko
-        altText: ''
+        altText: kunjungi toko
         url: /
         showIcon: false
         icon: arrowRight
