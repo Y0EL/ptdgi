@@ -271,11 +271,9 @@ sections:
           accomplish a particular purpose."
         tagline: Review terhadap DGI
         subtitle: 'Hana, Ibu Rumah Tangga'
-        text: >+
-
-          Belanja di OneStop Ponsel Cilincing nyaman banget! Gak jauh dari
-          rumah, dan barangnya lengkap. Stafnya juga ramah dan ngebantu
-
+        text: >
+          Belanja di konter Ponsel Cilincing nyaman banget! Gak jauh dari rumah,
+          dan barangnya lengkap. Stafnya juga ramah dan ngebantu
         image:
           url: /images/person-placeholder-light.png
           altText: John Doe
