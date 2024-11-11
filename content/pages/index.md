@@ -427,7 +427,7 @@ sections:
     subtitle: Produk Launching Terbaru!
     items:
       - title: Laptop HP 14s cf2019TU
-        tagline: This is the tagline
+        tagline: HP
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
