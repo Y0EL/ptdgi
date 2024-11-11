@@ -117,7 +117,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: ''
-        subtitle: Faster
+        subtitle: Garansi Keaslian dan Kepercayaan
         text: |+
           Produk resmi dan bergaransi langsung dari brand terpercaya.
 
