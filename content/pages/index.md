@@ -593,11 +593,10 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Melalui Formulir
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Mohon untuk tidak mengisi informasi penting dan sensitif, dikarenakan DGI
+      tidak pernah meminta informasi seperti PIN, CVV atau informai penting
+      apapun dalam bentuk apapun!
     media:
       fields:
         - name: name
