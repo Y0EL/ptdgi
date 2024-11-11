@@ -96,7 +96,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/Desain tanpa judul (2).png
+          url: /images/ind fast.png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
