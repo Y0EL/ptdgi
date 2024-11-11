@@ -53,7 +53,7 @@
                     "altText": "Toko Offline"
                 },
                 {
-                    "label": "Dropdown item",
+                    "label": "Toko Online",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
