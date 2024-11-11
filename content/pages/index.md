@@ -295,7 +295,7 @@ sections:
         type: FeaturedItem
       - title: Pilihan Tepat Buat Bisnis
         tagline: Review terhadap DGI
-        subtitle: 'Maria Walters, Company'
+        subtitle: 'Andre, Pengusaha Online Shop'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
