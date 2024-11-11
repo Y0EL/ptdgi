@@ -428,7 +428,7 @@ sections:
     items:
       - title: HP 14S
         tagline: LAPTOP
-        subtitle: Laptop HP 14s cf2019TU Celeron N4020 4GB 256GB SSD UMA Windows 10
+        subtitle: ''
         text: >+
           *   **Operating system:** Windows 10 Home Single Language 64
 
