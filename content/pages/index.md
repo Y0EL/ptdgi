@@ -9,9 +9,8 @@ sections:
       type: TitleBlock
     subtitle: Distributor Gadget Indonesia
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Pusat Gadget Terlengkap dan Terpercaya untuk Kebutuhan Bisnis dan Gaya
+      Hidup Modern Anda
     actions:
       - label: Get started
         altText: ''
