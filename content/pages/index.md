@@ -62,7 +62,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 500k
-        subtitle: Numbers Done
+        subtitle: 'Cakupan Luas, Tanpa Batasan Wilayah'
         text: >
           DGI melayani pengiriman ke seluruh Indonesia, baik untuk pelanggan
           retail maupun pembelian koli.
