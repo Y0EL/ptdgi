@@ -387,7 +387,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: ''
-        tagline: ''
+        tagline: Review terhadap DGI
         subtitle: 'Jane Doe, Company'
         text: |+
           Tulis reviewnya
