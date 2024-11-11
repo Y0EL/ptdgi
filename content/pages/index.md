@@ -167,7 +167,7 @@ sections:
         textAlign: center
   - subtitle: Partner kami
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/samsung.png
         altText: Empathy logo
         type: ImageBlock
       - url: /images/realme.png
