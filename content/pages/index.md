@@ -353,7 +353,7 @@ sections:
         type: FeaturedItem
       - title: Surga Bagi Gamer!
         tagline: Review terhadap DGI
-        subtitle: 'Surga Bagi Gamer!Jane Walters, Company'
+        subtitle: 'Dimas, Gamer Remaja'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
