@@ -111,7 +111,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: Produk Resmi
+      - title: Resmi
         subtitle: Garansi Keaslian dan Kepercayaan
         text: |+
           Produk resmi dan bergaransi langsung dari brand terpercaya.
