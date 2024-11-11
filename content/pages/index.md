@@ -354,10 +354,11 @@ sections:
       - title: Surga Bagi Gamer!
         tagline: Review terhadap DGI
         subtitle: 'Dimas, Gamer Remaja'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          DGI Roxy Mas lengkap banget buat gamer kayak gue! Dari device gaming
+          sampai aksesoris, semua ada. Tempat terbaik buat upgrade setup gaming
+
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
