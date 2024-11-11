@@ -118,10 +118,11 @@ sections:
         type: FeaturedItem
       - title: 200%
         subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+          Produk resmi dan bergaransi langsung dari brand terpercaya.
+
+
+
         image:
           url: /images/ind verified.png
           altText: Featured icon three
