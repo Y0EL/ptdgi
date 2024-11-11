@@ -388,7 +388,7 @@ sections:
         type: FeaturedItem
       - title: ''
         tagline: Review terhadap DGI
-        subtitle: 'Jane Doe, Company'
+        subtitle: 'Rizki, Mahasiswa Teknik'
         text: |+
           Tulis reviewnya
 
