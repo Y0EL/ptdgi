@@ -45,7 +45,7 @@
             "links": [
                 {
                     "label": "Toko Offline",
-                    "url": "/",
+                    "url": "/toko-offline",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
