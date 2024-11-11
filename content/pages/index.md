@@ -90,13 +90,8 @@ sections:
               borderRadius: x-large
       - title: Pengiriman Cepat
         subtitle: 'Proses Cepat, Sampai Tepat Waktu'
-        text: |+
-          Order baru langsung diproses dan dikirim di hari yang sama.
-
-
-
-
-
+        text: |
+          Pesanan baru langsung diproses dan dikirim di hari yang sama.
         image:
           url: /images/ind fast.png
           altText: Featured icon two
