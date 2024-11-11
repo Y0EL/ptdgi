@@ -9,7 +9,7 @@ excerpt: >-
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
   url: /images/onestop jakarta pusat.png
-  altText: Case study 2
+  altText: ONESTOP JAKARTA PUSAT
   styles:
     self:
       borderRadius: x-large
