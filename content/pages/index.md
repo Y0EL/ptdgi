@@ -275,7 +275,7 @@ sections:
           Belanja di konter Ponsel Cilincing nyaman banget! Gak jauh dari rumah,
           dan barangnya lengkap. Stafnya juga ramah dan ngebantu
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/3r.png
           altText: John Doe
           styles:
             self:
