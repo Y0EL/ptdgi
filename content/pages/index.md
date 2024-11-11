@@ -22,7 +22,7 @@ sections:
         elementId: ''
         type: Button
       - label: Toko Offline
-        altText: ''
+        altText: toko offline
         url: /offline
         showIcon: true
         icon: arrowRight
