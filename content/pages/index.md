@@ -475,7 +475,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Two
+      - title: Asus ROG Strix G G512LI-I75TB6T
         tagline: ''
         subtitle: This is the item subtitle
         text: |
