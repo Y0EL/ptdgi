@@ -88,7 +88,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
+      - title: Pengiriman Cepat
         subtitle: 'Proses Cepat, Sampai Tepat Waktu'
         text: |+
           Order baru langsung diproses dan dikirim di hari yang sama.
