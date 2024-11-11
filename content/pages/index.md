@@ -519,7 +519,7 @@ sections:
         type: FeaturedItem
       - title: 'ACER Aspire 5 (A514-52G) '
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: 'Part Number: NX.HMLSN.001'
         text: >
           Learn from the tutorial and build your first awesome Netlify Create
           site.
