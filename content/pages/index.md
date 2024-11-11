@@ -324,7 +324,7 @@ sections:
         type: FeaturedItem
       - title: Tempat Nongkrong Gadget Terbaik
         tagline: Review terhadap DGI
-        subtitle: 'Kevin, Anak Kuliah'
+        subtitle: 'Dwi, Anak Kuliah'
         text: >+
 
           DGI Cilincing selalu jadi tempat mampir gue buat gadget dan aksesoris
