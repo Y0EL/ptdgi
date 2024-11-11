@@ -63,7 +63,7 @@
                 },
                 {
                     "label": "Karir",
-                    "url": "/",
+                    "url": "/careers",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
